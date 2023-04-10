@@ -14,6 +14,7 @@ Print the sample CPU usage in the jagged array.
 stop
 
 ## Program:
+~~~
 using System;
 namespace jagged_array
 {
@@ -46,6 +47,7 @@ namespace jagged_array
         }
     }
 }
+~~~
 ## Output:
 ![c1](https://user-images.githubusercontent.com/94155183/230870352-89afbdc9-e813-4c85-a546-811d6327709d.png)
 
